@@ -5,7 +5,7 @@ int main()
 {
 
     vector<int> mohit;
-    int arr[7] = {1, 1, 1 , 2 ,  3 ,3 , 6};
+    int arr[8] = {1, 1, 1 , 2 ,  3 ,3 , 6 ,7};
 
     int i = 0;
 
